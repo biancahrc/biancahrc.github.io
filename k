@@ -8,7 +8,5 @@ function alertCookie()
 </script>
 <body> 
 Bine ai venit la lab 
-  <button 
-    onclick="alertCookie()">Show cookies
-  </button> 
+  <button onclick="alertCookie()">Show cookies</button> 
 </body>
